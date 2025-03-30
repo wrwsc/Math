@@ -1,0 +1,16 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MathHomeWork", "MathHomeWork\MathHomeWork.csproj", "{D1CD4285-032D-43F1-B114-8CA9CB1D9B1A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D1CD4285-032D-43F1-B114-8CA9CB1D9B1A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D1CD4285-032D-43F1-B114-8CA9CB1D9B1A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D1CD4285-032D-43F1-B114-8CA9CB1D9B1A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D1CD4285-032D-43F1-B114-8CA9CB1D9B1A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
