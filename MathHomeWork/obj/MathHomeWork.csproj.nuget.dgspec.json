@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "F:\\RiderProjects\\MathHomeWork\\MathHomeWork\\MathHomeWork.csproj": {}
+    "C:\\Users\\ВладОС\\RiderProjects\\Math\\MathHomeWork\\MathHomeWork.csproj": {}
   },
   "projects": {
-    "F:\\RiderProjects\\MathHomeWork\\MathHomeWork\\MathHomeWork.csproj": {
+    "C:\\Users\\ВладОС\\RiderProjects\\Math\\MathHomeWork\\MathHomeWork.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "F:\\RiderProjects\\MathHomeWork\\MathHomeWork\\MathHomeWork.csproj",
+        "projectUniqueName": "C:\\Users\\ВладОС\\RiderProjects\\Math\\MathHomeWork\\MathHomeWork.csproj",
         "projectName": "MathHomeWork",
-        "projectPath": "F:\\RiderProjects\\MathHomeWork\\MathHomeWork\\MathHomeWork.csproj",
+        "projectPath": "C:\\Users\\ВладОС\\RiderProjects\\Math\\MathHomeWork\\MathHomeWork.csproj",
         "packagesPath": "C:\\Users\\ВладОС\\.nuget\\packages\\",
-        "outputPath": "F:\\RiderProjects\\MathHomeWork\\MathHomeWork\\obj\\",
+        "outputPath": "C:\\Users\\ВладОС\\RiderProjects\\Math\\MathHomeWork\\obj\\",
         "projectStyle": "PackageReference",
         "UsingMicrosoftNETSdk": false,
         "fallbackFolders": [

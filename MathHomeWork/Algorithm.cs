@@ -60,12 +60,12 @@ internal static class Algorithm
         {
             temp++;
             var xk = x0 + k * m1;
-            var middle = gcd / 2;
-            if (k == middle)
+            if (k == 3)
             {
                 Console.WriteLine($"< x{k} = {xk}");
             }
-            Console.WriteLine($" |x{k} = {xk}");
+            else
+                Console.WriteLine($" |x{k} = {xk}");
         }
         Console.WriteLine("  ~");
         Console.WriteLine($"Кол-во решений: {temp}");
