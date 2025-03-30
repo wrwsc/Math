@@ -24,7 +24,7 @@ internal static class Algorithm
         // Обратный элемент
         var r = (Reverse(first, mod) * second) % mod;
         if (r < 0) r += mod;
-        Console.WriteLine($"P(n-1): {r} (mod {mod})");
+        Console.WriteLine($"x0: {r} (mod {mod})");
 
         // Общее решение
         DisplayAllSolutions(gcd, r, mod);
